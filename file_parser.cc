@@ -1,12 +1,3 @@
-/*
-	Nicolas Metras, Robert Christianson
-	cssc0620
-	Team New York
-	file_parser.c
-	CS530, Fall 2016
-
-*/
-
 #include "file_parser.h"
 
 using namespace std;
