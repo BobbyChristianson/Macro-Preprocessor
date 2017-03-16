@@ -1,4 +1,3 @@
 # Macro-Preprocessor
-
-Team: New York
-Members: Robert Christianson, Nic Metras
+# Team: New York
+# Members: Robert Christianson, Nic Metras
