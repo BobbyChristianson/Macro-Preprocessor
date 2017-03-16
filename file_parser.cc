@@ -2,7 +2,7 @@
 	Nicolas Metras, Robert Christianson
 	cssc0620
 	Team New York
-	file_parser.h
+	file_parser.c
 	CS530, Fall 2016
 
 */
